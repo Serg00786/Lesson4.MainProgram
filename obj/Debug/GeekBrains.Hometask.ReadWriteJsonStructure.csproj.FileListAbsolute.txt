@@ -1,0 +1,12 @@
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.exe.config
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.exe
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.pdb
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\CreateJsonObject.dll
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\CreateJsonObject.pdb
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\obj\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.csprojAssemblyReference.cache
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\obj\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\obj\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.csproj.CopyComplete
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\obj\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.exe
+C:\Users\HomePC\source\repos\GeekBrains.Hometask.ReadWriteJsonStructure\obj\Debug\GeekBrains.Hometask.ReadWriteJsonStructure.pdb
